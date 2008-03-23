@@ -1,0 +1,29 @@
+#ifndef CONSTANT_HPP
+#define CONSTANT_HPP
+
+#define L_PERIOD 0.05
+
+#define DEG_RAD 0.017453
+#define RAD_DEG 57.295779
+
+#define MAX_PLAYER_SPEED 9.0
+#define MIN_PLAYER_SPEED 1.0
+#define MAX_PLAYER_TURNSPD 4
+#define DEMIDIAGONALE 22.981
+#define BULLET_LIFE_TIME 60
+#define BULLET_SPEED 16.0
+#define STANDART_SPEEDUP 1.0
+
+#define MAP_HEIGHT 256
+#define MAP_WIDTH  256
+
+#define SCREEN_HEIGHT 480
+#define SCREEN_WIDTH  640
+
+#define SCROLL_H 150
+#define SCROLL_W 200
+
+#define MAX_NBR_FRAME 40
+#define BLAST_LIFE_TIME 38
+
+#endif // CONSTANT_HPP
